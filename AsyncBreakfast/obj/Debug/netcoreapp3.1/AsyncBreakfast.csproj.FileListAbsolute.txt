@@ -1,0 +1,13 @@
+C:\Dev\WORK\learning\Learning\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.exe
+C:\Dev\WORK\learning\Learning\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.deps.json
+C:\Dev\WORK\learning\Learning\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.runtimeconfig.json
+C:\Dev\WORK\learning\Learning\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.runtimeconfig.dev.json
+C:\Dev\WORK\learning\Learning\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.dll
+C:\Dev\WORK\learning\Learning\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.pdb
+C:\Dev\WORK\learning\Learning\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.csprojAssemblyReference.cache
+C:\Dev\WORK\learning\Learning\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.AssemblyInfoInputs.cache
+C:\Dev\WORK\learning\Learning\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.AssemblyInfo.cs
+C:\Dev\WORK\learning\Learning\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.csproj.CoreCompileInputs.cache
+C:\Dev\WORK\learning\Learning\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.dll
+C:\Dev\WORK\learning\Learning\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.pdb
+C:\Dev\WORK\learning\Learning\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.genruntimeconfig.cache
